@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.counter-app{
+  margin-left: 100px;
+}
+.btn{
+  padding: 5px 10px;
+  margin-right: 20px;
+  font-size: 30px;
+}
